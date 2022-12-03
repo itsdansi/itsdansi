@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/thedebid/thedebid/master/assets/developer.svg" width="250px" align="right" />
 
-### Hi there, I'm Debid <img src="https://raw.githubusercontent.com/thedebid/thedebid/master/assets/hi.gif" width="30px" />
+### Hi there, I'm Dansi <img src="https://raw.githubusercontent.com/thedebid/thedebid/master/assets/hi.gif" width="30px" />
 
 :computer: I'm a Software Engineer  
 :zap: Focused on building awesome products  
-:seedling: Currently Learning: AWS, NestJs, React
-:wrench: Current Tools: Typescript, Node.js, Docker, Angular
+:seedling: Currently Learning: AWS, NestJs, React  
+:wrench: Current Tools: Typescript, Node.js, Docker, Angular  
 
 ### Find me on:
 
